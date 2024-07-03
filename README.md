@@ -1,1 +1,1 @@
-Atividades desenvolvidas em sala com objetivo criar funcionalidades e sistemas lógicos.
+Atividades desenvolvidas em sala com objetivo de criar funcionalidades e sistemas lógicos.
