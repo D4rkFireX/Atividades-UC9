@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\aula.switch\aula.switch\bin\Debug\aula.@switch.exe.config
+C:\Users\victor.grferreira\source\repos\aula.switch\aula.switch\bin\Debug\aula.@switch.exe
+C:\Users\victor.grferreira\source\repos\aula.switch\aula.switch\bin\Debug\aula.@switch.pdb
+C:\Users\victor.grferreira\source\repos\aula.switch\aula.switch\obj\Debug\aula.switch.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\aula.switch\aula.switch\obj\Debug\aula.switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\aula.switch\aula.switch\obj\Debug\aula.switch.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\aula.switch\aula.switch\obj\Debug\aula.@switch.exe
+C:\Users\victor.grferreira\source\repos\aula.switch\aula.switch\obj\Debug\aula.@switch.pdb

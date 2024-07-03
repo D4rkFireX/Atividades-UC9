@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\atividade.leão\atividade.leão\bin\Debug\atividade.leão.exe.config
+C:\Users\victor.grferreira\source\repos\atividade.leão\atividade.leão\bin\Debug\atividade.leão.exe
+C:\Users\victor.grferreira\source\repos\atividade.leão\atividade.leão\bin\Debug\atividade.leão.pdb
+C:\Users\victor.grferreira\source\repos\atividade.leão\atividade.leão\obj\Debug\atividade.leão.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\atividade.leão\atividade.leão\obj\Debug\atividade.leão.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\atividade.leão\atividade.leão\obj\Debug\atividade.leão.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\atividade.leão\atividade.leão\obj\Debug\atividade.leão.exe
+C:\Users\victor.grferreira\source\repos\atividade.leão\atividade.leão\obj\Debug\atividade.leão.pdb

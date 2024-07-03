@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\QuestsDoRei\QuestsDoRei\bin\Debug\QuestsDoRei.exe.config
+C:\Users\victor.grferreira\source\repos\QuestsDoRei\QuestsDoRei\bin\Debug\QuestsDoRei.exe
+C:\Users\victor.grferreira\source\repos\QuestsDoRei\QuestsDoRei\bin\Debug\QuestsDoRei.pdb
+C:\Users\victor.grferreira\source\repos\QuestsDoRei\QuestsDoRei\obj\Debug\QuestsDoRei.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\QuestsDoRei\QuestsDoRei\obj\Debug\QuestsDoRei.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\QuestsDoRei\QuestsDoRei\obj\Debug\QuestsDoRei.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\QuestsDoRei\QuestsDoRei\obj\Debug\QuestsDoRei.exe
+C:\Users\victor.grferreira\source\repos\QuestsDoRei\QuestsDoRei\obj\Debug\QuestsDoRei.pdb

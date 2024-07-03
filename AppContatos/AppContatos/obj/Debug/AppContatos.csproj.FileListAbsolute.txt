@@ -1,0 +1,11 @@
+C:\Users\richard.ssilva7\source\repos\AppContatos\AppContatos\obj\Debug\AppContatos.csproj.AssemblyReference.cache
+C:\Users\richard.ssilva7\source\repos\AppContatos\AppContatos\obj\Debug\AppContatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\richard.ssilva7\source\repos\AppContatos\AppContatos\obj\Debug\AppContatos.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\AppContatos\AppContatos\bin\Debug\AppContatos.exe.config
+C:\Users\victor.grferreira\source\repos\AppContatos\AppContatos\bin\Debug\AppContatos.exe
+C:\Users\victor.grferreira\source\repos\AppContatos\AppContatos\bin\Debug\AppContatos.pdb
+C:\Users\victor.grferreira\source\repos\AppContatos\AppContatos\obj\Debug\AppContatos.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\AppContatos\AppContatos\obj\Debug\AppContatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\AppContatos\AppContatos\obj\Debug\AppContatos.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\AppContatos\AppContatos\obj\Debug\AppContatos.exe
+C:\Users\victor.grferreira\source\repos\AppContatos\AppContatos\obj\Debug\AppContatos.pdb

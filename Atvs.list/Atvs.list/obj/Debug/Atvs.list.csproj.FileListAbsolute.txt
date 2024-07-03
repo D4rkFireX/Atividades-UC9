@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\Atvs.list\Atvs.list\obj\Debug\Atvs.list.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\Atvs.list\Atvs.list\obj\Debug\Atvs.list.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\Atvs.list\Atvs.list\obj\Debug\Atvs.list.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\Atvs.list\Atvs.list\bin\Debug\Atvs.list.exe.config
+C:\Users\victor.grferreira\source\repos\Atvs.list\Atvs.list\bin\Debug\Atvs.list.exe
+C:\Users\victor.grferreira\source\repos\Atvs.list\Atvs.list\bin\Debug\Atvs.list.pdb
+C:\Users\victor.grferreira\source\repos\Atvs.list\Atvs.list\obj\Debug\Atvs.list.exe
+C:\Users\victor.grferreira\source\repos\Atvs.list\Atvs.list\obj\Debug\Atvs.list.pdb

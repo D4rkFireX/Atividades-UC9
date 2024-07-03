@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\exercício.cisne\exercício.cisne\bin\Debug\exercício.cisne.exe.config
+C:\Users\victor.grferreira\source\repos\exercício.cisne\exercício.cisne\bin\Debug\exercício.cisne.exe
+C:\Users\victor.grferreira\source\repos\exercício.cisne\exercício.cisne\bin\Debug\exercício.cisne.pdb
+C:\Users\victor.grferreira\source\repos\exercício.cisne\exercício.cisne\obj\Debug\Atividade.cisne.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\exercício.cisne\exercício.cisne\obj\Debug\Atividade.cisne.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\exercício.cisne\exercício.cisne\obj\Debug\Atividade.cisne.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\exercício.cisne\exercício.cisne\obj\Debug\exercício.cisne.exe
+C:\Users\victor.grferreira\source\repos\exercício.cisne\exercício.cisne\obj\Debug\exercício.cisne.pdb

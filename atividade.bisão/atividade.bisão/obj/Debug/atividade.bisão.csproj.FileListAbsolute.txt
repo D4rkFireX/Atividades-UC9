@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\atividade.bisão\atividade.bisão\bin\Debug\atividade.bisão.exe.config
+C:\Users\victor.grferreira\source\repos\atividade.bisão\atividade.bisão\bin\Debug\atividade.bisão.exe
+C:\Users\victor.grferreira\source\repos\atividade.bisão\atividade.bisão\bin\Debug\atividade.bisão.pdb
+C:\Users\victor.grferreira\source\repos\atividade.bisão\atividade.bisão\obj\Debug\atividade.bisão.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\atividade.bisão\atividade.bisão\obj\Debug\atividade.bisão.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\atividade.bisão\atividade.bisão\obj\Debug\atividade.bisão.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\atividade.bisão\atividade.bisão\obj\Debug\atividade.bisão.exe
+C:\Users\victor.grferreira\source\repos\atividade.bisão\atividade.bisão\obj\Debug\atividade.bisão.pdb

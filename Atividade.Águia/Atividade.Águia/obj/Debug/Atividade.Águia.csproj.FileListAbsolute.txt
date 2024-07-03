@@ -1,0 +1,16 @@
+C:\Users\victor.grferreira\source\repos\Atividade.Águia\Atividade.Águia\bin\Debug\Atividade.Águia.exe.config
+C:\Users\victor.grferreira\source\repos\Atividade.Águia\Atividade.Águia\bin\Debug\Atividade.Águia.exe
+C:\Users\victor.grferreira\source\repos\Atividade.Águia\Atividade.Águia\bin\Debug\Atividade.Águia.pdb
+C:\Users\victor.grferreira\source\repos\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.exe
+C:\Users\victor.grferreira\source\repos\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.pdb
+D:\Atividade.Águia\Atividade.Águia\bin\Debug\Atividade.Águia.exe.config
+D:\Atividade.Águia\Atividade.Águia\bin\Debug\Atividade.Águia.exe
+D:\Atividade.Águia\Atividade.Águia\bin\Debug\Atividade.Águia.pdb
+D:\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.csproj.AssemblyReference.cache
+D:\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.csproj.SuggestedBindingRedirects.cache
+D:\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.csproj.CoreCompileInputs.cache
+D:\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.exe
+D:\Atividade.Águia\Atividade.Águia\obj\Debug\Atividade.Águia.pdb

@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\Principe\Principe\bin\Debug\Principe.exe.config
+C:\Users\victor.grferreira\source\repos\Principe\Principe\bin\Debug\Principe.exe
+C:\Users\victor.grferreira\source\repos\Principe\Principe\bin\Debug\Principe.pdb
+C:\Users\victor.grferreira\source\repos\Principe\Principe\obj\Debug\Principe.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\Principe\Principe\obj\Debug\Principe.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\Principe\Principe\obj\Debug\Principe.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\Principe\Principe\obj\Debug\Principe.exe
+C:\Users\victor.grferreira\source\repos\Principe\Principe\obj\Debug\Principe.pdb

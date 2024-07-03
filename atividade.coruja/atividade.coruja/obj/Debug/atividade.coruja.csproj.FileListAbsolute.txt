@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\atividade.coruja\atividade.coruja\obj\Debug\atividade.coruja.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\atividade.coruja\atividade.coruja\obj\Debug\atividade.coruja.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\atividade.coruja\atividade.coruja\obj\Debug\atividade.coruja.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\atividade.coruja\atividade.coruja\bin\Debug\atividade.coruja.exe.config
+C:\Users\victor.grferreira\source\repos\atividade.coruja\atividade.coruja\bin\Debug\atividade.coruja.exe
+C:\Users\victor.grferreira\source\repos\atividade.coruja\atividade.coruja\bin\Debug\atividade.coruja.pdb
+C:\Users\victor.grferreira\source\repos\atividade.coruja\atividade.coruja\obj\Debug\atividade.coruja.exe
+C:\Users\victor.grferreira\source\repos\atividade.coruja\atividade.coruja\obj\Debug\atividade.coruja.pdb

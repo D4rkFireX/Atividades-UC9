@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\Atividade.alce\Atividade.alce\obj\Debug\Atividade.alce.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\Atividade.alce\Atividade.alce\obj\Debug\Atividade.alce.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\Atividade.alce\Atividade.alce\obj\Debug\Atividade.alce.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\Atividade.alce\Atividade.alce\bin\Debug\Atividade.alce.exe.config
+C:\Users\victor.grferreira\source\repos\Atividade.alce\Atividade.alce\bin\Debug\Atividade.alce.exe
+C:\Users\victor.grferreira\source\repos\Atividade.alce\Atividade.alce\bin\Debug\Atividade.alce.pdb
+C:\Users\victor.grferreira\source\repos\Atividade.alce\Atividade.alce\obj\Debug\Atividade.alce.exe
+C:\Users\victor.grferreira\source\repos\Atividade.alce\Atividade.alce\obj\Debug\Atividade.alce.pdb

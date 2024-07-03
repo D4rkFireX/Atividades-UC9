@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\Atividade.cabra\Atividade.cabra\bin\Debug\Atividade.cabra.exe.config
+C:\Users\victor.grferreira\source\repos\Atividade.cabra\Atividade.cabra\bin\Debug\Atividade.cabra.exe
+C:\Users\victor.grferreira\source\repos\Atividade.cabra\Atividade.cabra\bin\Debug\Atividade.cabra.pdb
+C:\Users\victor.grferreira\source\repos\Atividade.cabra\Atividade.cabra\obj\Debug\Atividade.cabra.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\Atividade.cabra\Atividade.cabra\obj\Debug\Atividade.cabra.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\Atividade.cabra\Atividade.cabra\obj\Debug\Atividade.cabra.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\Atividade.cabra\Atividade.cabra\obj\Debug\Atividade.cabra.exe
+C:\Users\victor.grferreira\source\repos\Atividade.cabra\Atividade.cabra\obj\Debug\Atividade.cabra.pdb

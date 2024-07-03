@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\atividade.lobo\atividade.lobo\bin\Debug\atividade.lobo.exe.config
+C:\Users\victor.grferreira\source\repos\atividade.lobo\atividade.lobo\bin\Debug\atividade.lobo.exe
+C:\Users\victor.grferreira\source\repos\atividade.lobo\atividade.lobo\bin\Debug\atividade.lobo.pdb
+C:\Users\victor.grferreira\source\repos\atividade.lobo\atividade.lobo\obj\Debug\atividade.lobo.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\atividade.lobo\atividade.lobo\obj\Debug\atividade.lobo.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\atividade.lobo\atividade.lobo\obj\Debug\atividade.lobo.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\atividade.lobo\atividade.lobo\obj\Debug\atividade.lobo.exe
+C:\Users\victor.grferreira\source\repos\atividade.lobo\atividade.lobo\obj\Debug\atividade.lobo.pdb

@@ -1,0 +1,8 @@
+C:\Users\victor.grferreira\source\repos\Boss.Unicórinio\Boss.Unicórinio\bin\Debug\Boss.Unicórinio.exe.config
+C:\Users\victor.grferreira\source\repos\Boss.Unicórinio\Boss.Unicórinio\bin\Debug\Boss.Unicórinio.exe
+C:\Users\victor.grferreira\source\repos\Boss.Unicórinio\Boss.Unicórinio\bin\Debug\Boss.Unicórinio.pdb
+C:\Users\victor.grferreira\source\repos\Boss.Unicórinio\Boss.Unicórinio\obj\Debug\Boss.Unicórinio.csproj.AssemblyReference.cache
+C:\Users\victor.grferreira\source\repos\Boss.Unicórinio\Boss.Unicórinio\obj\Debug\Boss.Unicórinio.csproj.SuggestedBindingRedirects.cache
+C:\Users\victor.grferreira\source\repos\Boss.Unicórinio\Boss.Unicórinio\obj\Debug\Boss.Unicórinio.csproj.CoreCompileInputs.cache
+C:\Users\victor.grferreira\source\repos\Boss.Unicórinio\Boss.Unicórinio\obj\Debug\Boss.Unicórinio.exe
+C:\Users\victor.grferreira\source\repos\Boss.Unicórinio\Boss.Unicórinio\obj\Debug\Boss.Unicórinio.pdb
